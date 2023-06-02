@@ -10,3 +10,21 @@ If you don't know what is Game of Life, go check this [video](https://www.youtub
 When you lauch the game, you can ERASE GRID or START SIMULATION. With Mouse when you use right click you erased a pixel and leght click you add one.
 
 [Video of Game of Life](./ReadMe/GameOfLife.mov)
+
+## How can you play
+
+First, download all file and with a terminal run following command :
+
+```python
+pip3 install pygame numpy
+# and
+python3 Main.py
+```
+
+And after the you will have a fullscreen open and you only think you need it's to test the game !
+
+## Make change with constante.py
+
+If you open **constante.py**, you can modify all setting you want like FPS, Number of scare in one Length, Size of your screen...
+
+![Picture of setting](./ReadMe/Constante.png)
