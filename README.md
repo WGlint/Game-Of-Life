@@ -9,7 +9,7 @@ If you don't know what is Game of Life, go check this [video](https://www.youtub
 
 When you lauch the game, you can ERASE GRID or START SIMULATION. With Mouse when you use right click you erased a pixel and leght click you add one.
 
-[Video of Game of Life](./ReadMe/GameOfLife.mov)
+![Video of Game of Life](./ReadMe/GameOfLife.gif)
 
 ## How can you play
 
